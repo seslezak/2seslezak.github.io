@@ -1,6 +1,6 @@
 # Coming to $terms in R
 
-### Steven Slezak
+## Steven Slezak
 
 ### 28 April 2018
 
