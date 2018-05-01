@@ -1,0 +1,49 @@
+title = "MungeX-3D"
+baseURL = "https://seslezak.github.io/"
+tags = ["portfolio", "web design", "blog"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "tomanistor"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = "Data, Dogs, Ducati (and Baseball)"
+    author = "Steven Slezak"
+    description = ""
+    logoBig = "/images/MungeX3D.png"
+    logoSmall = "/images/MungeX3D.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/MungeX3D.png"
+    twitter = "Mungex3D"
+    linkedin = "steven-slezak-a3243914"
+    github = "seslezak"
+    facebook = ""
+    email = "sslezak@finex.co"
+    googleTagManager = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Work"
+    url  = "/#work"
+    weight = 2
+[[menu.main]]
+    name = "Blog"
+    url  = "https://seslezak.github.io/"
+    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 4
