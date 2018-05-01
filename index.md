@@ -1,4 +1,4 @@
-# Coming to $terms in R
+# Coming to *$terms* in *R*
 
 ## Steven Slezak
 
